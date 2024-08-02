@@ -1,0 +1,4 @@
+#ifndef SLIDERDIALOG_H
+#define SLIDERDIALOG_H
+
+#endif // SLIDERDIALOG_H

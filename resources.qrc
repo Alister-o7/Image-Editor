@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/zoom-out.png</file>
+        <file>resources/zoom-in.png</file>
+        <file>resources/zoom-adapt.png</file>
+        <file>resources/redo.png</file>
+        <file>resources/undo.png</file>
+        <file>resources/cursorSelect.png</file>
+        <file>resources/cursorMove.png</file>
+        <file>resources/colorPicker.png</file>
+        <file>resources/paintBucket.png</file>
+        <file>resources/brush.png</file>
+        <file>resources/eraser.png</file>
+        <file>resources/lasso.png</file>
+        <file>resources/magicWand.png</file>
+        <file>resources/drawShapes.png</file>
+    </qresource>
+</RCC>

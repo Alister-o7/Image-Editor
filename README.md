@@ -9,16 +9,16 @@ rectangle or lasso select, paint brush, eraser, drawing of basic shapes and pain
 
 ## Shortcuts
 
-Redo - Ctrl + Shift + Z\
-Undo - Ctrl + Z\
-Zoom Adapt - Ctrl + Return\
-Select - Shift + Q\
-Move - Shift + W\
-Paint Bucket - Shift + E\
-Brush - Shift + R\
-Eraser - Shift + A\
-Lasso - Shift + S\
-Magic Wand - Shift + D\
-Draw Shapes - Shift + F\
-Color Picker - Shift + C\
-Invert Selection - Ctrl + I (lasso or magic wand selection)
+Redo - ```Ctrl + Shift + Z```\
+Undo - ```Ctrl + Z```\
+Zoom Adapt - ```Ctrl + Return```\
+Select - ```Shift + Q```\
+Move - ```Shift + W```\
+Paint ```Bucket - Shift + E```\
+Brush - ```Shift + R```\
+Eraser - ```Shift + A```\
+Lasso - ```Shift + S```\
+Magic Wand - ```Shift + D```\
+Draw Shapes - ```Shift + F```\
+Color Picker - ```Shift + C```\
+Invert Selection - ```Ctrl + I``` (lasso or magic wand selection)
